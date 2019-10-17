@@ -86,7 +86,7 @@
     height: 137px;
     top: 239px;
     left: 224px;
-    background: url(controller/sticks.svg);
+    background: url(controller/base-skin.svg);
 }
 .custom .stick{
     position: absolute;
