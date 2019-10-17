@@ -80,3 +80,31 @@
     left: 55px;
     top: 5px;
 }
+.custom .sticks{
+    position: absolute;
+    width: 137px;
+    height: 137px;
+    top: 239px;
+    left: 224px;
+    background: url(https://vrillusions.github.io/gamepadviewer-css-xboxmini/images/stickbg.svg);
+}
+.custom .stick{
+    position: absolute;
+    background: url(https://vrillusions.github.io/gamepadviewer-css-xboxmini/images/stick.svg);
+    /* black stick - background-position: -85px 0; */
+    background-position: 0;
+    height: 83px;
+    width: 84px;
+}
+.custom .stick.pressed{
+    background-position: 0 0;
+}
+.custom .stick.left{
+    top: 27px;
+    left: 26px;
+}
+.custom .stick.right{
+    display: none;
+    top: 113px;
+    left: 288px;
+}
