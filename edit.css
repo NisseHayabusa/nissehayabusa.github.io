@@ -81,14 +81,14 @@
     top: 5px;
 }
 
-.custom .stick {
+.edit .stick {
     position: absolute;
     background: url(controll/stick-svg.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
-.custom .stick{
+.edit .stick{
     position: absolute;
     background: url(controller/stick-svg.svg);
     background-position: -85px 0;
@@ -96,16 +96,16 @@
     width: 83px;
 }
 
-.custom .stick.pressed{
+.edit .stick.pressed{
     background-position: 0 0;
 }
 
-.custom .stick.left{
+.edit .stick.left{
     top: 0;
     left: 0;
 }
 
-.custom .stick.right{
+.edit .stick.right{
     top: 113px;
     left: 288px;
 }
