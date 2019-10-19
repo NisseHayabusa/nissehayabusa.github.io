@@ -3,7 +3,7 @@
 }
 
 .edit.disconnected {
-  background: url(controller/gold-disconnect.svg);
+  background: url(controller/gold-disconnected.svg);
 }
 
 .edit .quadrant {
