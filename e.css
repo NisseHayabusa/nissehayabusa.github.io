@@ -1,5 +1,5 @@
 .controller.edit {
-    background: url(ps4/img/ps4-hayab.svg);
+  background: url(ps4/img/ps4-hayab.svg);
 }
 
 .edit.disconnected {
@@ -144,29 +144,29 @@
     left: 58px;
 }
 
-.edit .sticks{
+.edit .sticks {
     position: absolute;
     width: 361px;
     height: 105px;
     top: 308px;
     left: 228px;
 }
-.edit .stick{
+.edit .stick {
     position: absolute;
     background: url(ps4/img/ps4sticks.svg);
     height: 94px;
     width: 94px;
 }
-.edit .stick.pressed.left{
-    background-position-x: -96px;
+.edit .stick.pressed.left {
+   background-position-x: -96px;
 }
-.edit .stick.pressed.right{
-    background-position-x: -192px;
+.edit .stick.pressed.right {
+   background-position-x: -192px;
 }
-.edit .stick.left{
+.edit .stick.left {
     top: 0;
     left: 0;
 }
-.edit .stick.right{
+.edit .stick.right {
     top: calc(100% - 105px);
     left: calc(100% - 105px);
