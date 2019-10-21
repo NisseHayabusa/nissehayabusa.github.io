@@ -1,5 +1,5 @@
 .controller.edit {
-    background: url(https://nissehayabusa.github.io/ps4/img/ps4-hayab.svg);
+    background: url(ps4/img/ps4-hayab.svg);
 }
 
 .edit.disconnected {
@@ -153,7 +153,7 @@
 }
 .edit .stick{
     position: absolute;
-    background: url(https://nissehayabusa.github.io/ps4/img/ps4sticks.svg);
+    background: url(ps4/img/ps4sticks.svg);
     height: 94px;
     width: 94px;
 }
