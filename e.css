@@ -1,4 +1,4 @@
-.controller.edit {
+.controller.edit{
   background: url(ps4/img/ps4-hayab.svg);
 }
 
@@ -151,7 +151,7 @@
     top: 308px;
     left: 228px;
 }
-.edit .stick {
+.edit .stick{
     position: absolute;
     background: url(ps4/img/ps4sticks.svg);
     height: 94px;
