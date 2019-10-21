@@ -1,5 +1,5 @@
 .controller.edit {
-    background: url(ps4/img/ps4-hayab.svg);
+    background: url(https://nissehayabusa.github.io/ps4/img/ps4-hayab.svg);
     height: 598px;
     width: 806px;
 }
@@ -157,7 +157,7 @@ the CSS inline. */
 }
 .edit .stick{
     position: absolute;
-    background: url(ps4/img/ps4sticks.svg);
+    background: url(https://nissehayabusa.github.io/ps4/img/ps4sticks.svg);
     height: 94px;
     width: 94px;
 }
