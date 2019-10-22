@@ -125,20 +125,24 @@
     background-position-y: 55px;
 
 }
+
 .edit .a{
     background-position: 0 0;
     bottom: 0;
     left: 58px;
 }
+
 .edit .b{
     background-position: -57px 0;
     top: 58px;
     right: 0px;
 }
+
 .edit .x{
     background-position: -113px 0;
     top: 58px;
 }
+
 .edit .y{
     background-position: 55px 0;
     left: 58px;
@@ -151,22 +155,73 @@
     top: 308px;
     left: 228px;
 }
+
 .edit .stick{
     position: absolute;
     background: url(ps4/img/ps4sticks.svg);
     height: 94px;
     width: 94px;
 }
+
 .edit .stick.pressed.left {
    background-position-x: -96px;
 }
+
 .edit .stick.pressed.right {
    background-position-x: -192px;
 }
+
 .edit .stick.left {
     top: 0;
     left: 0;
 }
+
 .edit .stick.right {
     top: calc(100% - 105px);
     left: calc(100% - 105px);
+}
+
+.edit .dpad{
+    position: absolute;
+    width: 125px;
+    height: 126px;
+    top: 181px;
+    left: 92px;
+}
+
+.edit .face{
+    background: url(ps4/img/ps4-dpad.svg);
+    position: absolute;
+}
+
+.edit .face.up, .edit .face.down{
+    width: 36px;
+    height: 52px;
+}
+.edit .face.left, .edit .face.right{
+    width: 52px;
+    height: 36px;
+}
+.edit .face.up{
+    left: 44px;
+    top: 0;
+    background-position: -37px 0px;
+}
+.edit .face.down{
+    left: 44px;
+    bottom: 0;
+    background-position: 0px 0;
+}
+.edit .face.left{
+    top: 45px;
+    left: 0;
+    background-position: 104px 0;
+}
+.edit .face.right{
+    top: 45px;
+    right: 0px;
+    background-position: 52px 0;
+}
+.edit .face.pressed{
+    background-position-y: 52px;
+}
