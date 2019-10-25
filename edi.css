@@ -30,7 +30,7 @@
 .edit .bumper{
     width: 99px;
     height: 23px;
-    background: url() no-repeat;
+    background: url(moon/pic/ps4-bumper.svg) no-repeat;
     opacity: 0;
 
 }
@@ -88,7 +88,7 @@
 }
 
 .edit .back, .edit .start{
-    background: url();
+    background: url(ps4-start.svg);
     width: 28px;
     height: 46px;
     opacity: 0;
