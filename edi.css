@@ -119,7 +119,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(moon/pic/abxy-moonlight.svg);
+    background: url(moon/pic/abxy-moon.svg);
 }
 .edit .button.pressed{
     background-position-y: 55px;
