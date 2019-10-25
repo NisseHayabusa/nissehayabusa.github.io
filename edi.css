@@ -1,9 +1,9 @@
 .controller.edit{
-  background: url(ps4/img/ps4-haybase.svg);
+  background: url(moon/pic/moonlightbase.svg);
 }
 
 .edit.disconnected {
-  background: url(ps4/img/ps4-dc.svg);
+  background: url();
 }
 
 .edit .triggers{
@@ -15,7 +15,7 @@
 .edit .trigger{
     width: 99px;
     height: 100%;
-    background: url(ps4/img/ps4-triggers.svg);
+    background: url(moon/pic/triggers-moonlight.svg);
     opacity: 0;
 }
 
@@ -30,7 +30,7 @@
 .edit .bumper{
     width: 99px;
     height: 23px;
-    background: url(ps4/img/ps4-hayabumper.svg) no-repeat;
+    background: url() no-repeat;
     opacity: 0;
 
 }
@@ -64,7 +64,7 @@
 }
 
 .edit .touchpad.pressed {
-    background: url(ps4/img/ps4-touchpad1.svg) no-repeat center;
+    background: url() no-repeat center;
 }
 
 .edit .meta {
@@ -88,7 +88,7 @@
 }
 
 .edit .back, .edit .start{
-    background: url(ps4/img/ps4-hayastart.svg);
+    background: url();
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -119,7 +119,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(ps4/img/abxy-ps4v.svg);
+    background: url(moon/pic/abxy-moonlight.svg);
 }
 .edit .button.pressed{
     background-position-y: 55px;
@@ -158,7 +158,7 @@
 
 .edit .stick{
     position: absolute;
-    background: url(ps4/img/ps4sticks.svg);
+    background: url(moon/pic/moonlight-sticks.svg);
     height: 94px;
     width: 94px;
 }
@@ -190,7 +190,7 @@
 }
 
 .edit .face{
-    background: url(ps4/img/ps4-dpad.svg);
+    background: url(moon/pic/dpad-moonlight.svg);
     position: absolute;
 }
 
