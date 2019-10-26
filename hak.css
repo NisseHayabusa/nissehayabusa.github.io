@@ -15,7 +15,7 @@
 .edit .trigger{
     width: 99px;
     height: 100%;
-    background: url(dak/ps4-trigger.svg);
+    background: url(dak/ps4-triggers.svg);
     opacity: 0;
 }
 
@@ -30,7 +30,7 @@
 .edit .bumper{
     width: 99px;
     height: 23px;
-    background: url(dak/ps4-bumper.svg) no-repeat;
+    background: url(dak/ps4-hayabumper.svg) no-repeat;
     opacity: 0;
 
 }
