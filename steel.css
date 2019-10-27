@@ -48,7 +48,7 @@
 
 .edit .button {
   position: absolute;
-  background: url(steel/abxy cross.svg);
+  background: url(steel/abxy-cross.svg);
 }
 
 .edit .button.pressed {
@@ -83,14 +83,14 @@
 
 .edit .stick {
     position: absolute;
-    background: url(steel/steel sticks.svg);
+    background: url(steel/steel-sticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
 .edit .stick{
     position: absolute;
-    background: url(steel/steel sticks.svg);
+    background: url(steel/steel-sticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
