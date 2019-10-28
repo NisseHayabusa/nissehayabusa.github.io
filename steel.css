@@ -1,5 +1,5 @@
 .controller.edit {
-  background: url(steel/steelbase.svg);
+  background: url(steel/steelbase-gold.svg);
 }
 
 .edit.disconnected {
@@ -48,7 +48,7 @@
 
 .edit .button {
   position: absolute;
-  background: url(steel/abxy-cross.svg);
+  background: url(steel/steelstar-abxy.svg);
 }
 
 .edit .button.pressed {
