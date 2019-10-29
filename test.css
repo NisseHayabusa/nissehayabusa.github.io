@@ -1,6 +1,6 @@
 .controller.edit {
-  background: url(controller/Flame.gif) url(controller/goldhaya-base.svg), no-repeat;
-Background-postion: absolute;
+  background: url(controller/goldhaya-base.svg) url(controller/Flame.gif), no-repeat;
+  Background-postion: absolute;
 }
 
 .edit.disconnected {
