@@ -1,5 +1,5 @@
 .controller.edit {
-  background: url(controller/goldhaya-base.svg,flame.gif);
+  background: url(controller/goldhaya-base.svg), url(flame.gif);
 }
 
 .edit.disconnected {
