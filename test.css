@@ -1,8 +1,8 @@
 .controller.edit {
   background:   url(controller/spike.gif), url(controller/goldhaya-base.svg);
   background-postion: absolute;
-    width: 760px;
-    height: 630px;
+    width: 750px;
+    height: 473px;
   background-position-x: 0px;
   background-repeat:no-repeat;
 }
