@@ -32,7 +32,7 @@
 }
 
 .edit .back, .edit .start {
-    background: url();
+    background: url(green/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -88,14 +88,14 @@
 
 .edit .stick {
     position: absolute;
-    background: url(green/hextidesticks.svg);
+    background: url(green/glowsticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
 .edit .stick{
     position: absolute;
-    background: url(green/hextidesticks.svg);
+    background: url(green/glowsticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
