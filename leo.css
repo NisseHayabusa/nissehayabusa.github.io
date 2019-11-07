@@ -48,7 +48,7 @@
 
 .edit .button {
   position: absolute;
-  background: url(leo/leoabxy.svg);
+  background: url(controller/gold-abxy.svg);
 }
 
 .edit .button.pressed {
