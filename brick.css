@@ -1,5 +1,10 @@
 .controller.edit {
-  background: url(brick/dragonborn.svg);
+  background:   url(brick/thunderdragon.gif), url(brick/dragonborn.svg);
+  background-postion: absolute;
+    width: 750px;
+    height: 630px;
+  background-position-x: 0px;
+  background-repeat:no-repeat;
 }
 
 .edit.disconnected {
@@ -83,14 +88,14 @@
 
 .edit .stick {
     position: absolute;
-    background: url(controller/gold-sticks.svg);
+    background: url(brick/steel-sticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
 .edit .stick{
     position: absolute;
-    background: url(controller/gold-sticks.svg);
+    background: url(brick/steel-sticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
