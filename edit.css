@@ -83,7 +83,7 @@
 
 .edit .stick {
     position: absolute;
-    background: url(controll/gold-sticks.svg);
+    background: url(controller/gold-sticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
