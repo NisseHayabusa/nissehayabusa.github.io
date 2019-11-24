@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(skog/skoggif.gif), url(skog/ps4skogbase.svg);
+  background:   url(de/de.gif.gif), url(de/deps4.svg);
   background-postion: absolute;
     width: 806px;
     height: 599px;
@@ -20,7 +20,7 @@
 .edit .trigger{
     width: 99px;
     height: 100%;
-    background: url(skog/triggers-moonlight.svg);
+    background: url(lime/trigger-ps4.svg);
     opacity: 0;
 }
 
@@ -93,7 +93,7 @@
 }
 
 .edit .back, .edit .start{
-    background: url();
+    background: url(lime/limestart.svg);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -124,7 +124,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(skog/abxy-japan.svg);
+    background: url(lime/limeabxy.svg);
 }
 .edit .button.pressed{
     background-position-y: 55px;
@@ -163,7 +163,7 @@
 
 .edit .stick{
     position: absolute;
-    background: url(skog/skogsticks.svg);
+    background: url(de/desticks.svg);
     height: 94px;
     width: 94px;
 }
