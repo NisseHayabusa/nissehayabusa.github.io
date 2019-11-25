@@ -1,9 +1,10 @@
 .controller.edit {
-  background: url(controller/goldhaya-base.svg);
-}
-
-.edit.disconnected {
-  background: url(controller/gold-disconnected.svg);
+  background:   url(controller/haya.gif), url(controller/goldhaya-base.svg);
+  background-postion: absolute;
+    width: 750px;
+    height: 630px;
+  background-position-x: 0px;
+  background-repeat:no-repeat;
 }
 
 .edit .quadrant {
