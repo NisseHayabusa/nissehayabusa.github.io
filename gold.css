@@ -1,10 +1,5 @@
 .controller.edit {
-  background:   url(controller/pikachu.gif), url(controller/goldhaya-base.svg);
-  background-postion: absolute;
-    width: 750px;
-    height: 630px;
-  background-position-x: 0px;
-  background-repeat:no-repeat;
+  background: url(controller/goldhaya-base.svg);
 }
 
 .edit .quadrant {
