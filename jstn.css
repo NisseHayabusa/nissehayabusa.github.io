@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(jstn/jstnG.gif), url(jstn/jstnbasee.svg);
+  background:   url(jstn/jstn.gif), url(jstn/jstnbaseee.svg);
   background-postion: absolute;
     width: 806px;
     height: 599px;
@@ -163,7 +163,7 @@
 
 .edit .stick{
     position: absolute;
-    background: url(jstn/jstnsticks.svg);
+    background: url(jstn/jstnstickss.svg);
     height: 94px;
     width: 94px;
 }
