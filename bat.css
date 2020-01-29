@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(bat/starwarss.gif), url(bat/epicbase.svg);
+  background:   url(bat/starwarss.gif), url(bat/starwarsbasee.svg);
   background-postion: absolute;
     width: 750px;
     height: 630px;
@@ -53,7 +53,7 @@
 
 .edit .button {
   position: absolute;
-  background: url(bat/abxybatman.svg);
+  background: url(bat/starwarsabxy.svg);
 }
 
 .edit .button.pressed {
@@ -88,14 +88,14 @@
 
 .edit .stick {
     position: absolute;
-    background: url(bat/batmansticks.svg);
+    background: url(bat/swsticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
 .edit .stick{
     position: absolute;
-    background: url(bat/batmansticks.svg);
+    background: url(bat/swsticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
