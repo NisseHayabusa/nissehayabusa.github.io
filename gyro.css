@@ -124,7 +124,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(gyro/gyroabxy.svg);
+    background: url(gyro/gyrooabxy.svg);
 }
 .edit .button.pressed{
     background-position-y: 55px;
