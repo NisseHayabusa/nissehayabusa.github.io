@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(gyro/gyro.gif), url(gyro/gyrobase.svg);
+  background:   url(gyro/gyro.gif), url(gyro/gyrobasee.svg);
   background-postion: absolute;
     width: 806px;
     height: 599px;
@@ -124,7 +124,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(jstn/jstnabxy.svg);
+    background: url(gyro/gyroabxy.svg);
 }
 .edit .button.pressed{
     background-position-y: 55px;
