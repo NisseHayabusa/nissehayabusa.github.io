@@ -51,9 +51,19 @@
     float: right;
 }
 
+.edit .abxy {
+    position: absolute;
+    width: 153px;
+    height: 156px;
+    top: 192px;
+    left: 488px;
+}
+
 .edit .button {
-  position: absolute;
-  background: url(musty/abxymusty.svg);
+    position: absolute;
+    background: url(musty/abxymusty.svg);
+    width: 48px;
+    height: 48px;
 }
 
 .edit .button.pressed {
@@ -70,20 +80,20 @@
 
 .edit .b {
     background-position: -49px 0;
-    top: 57px;
-    right: 3px;
+    top: 58px;
+    right: 0px;
 }
 
 .edit .x {
     background-position: -98px 0;
-    top: 57px;
+    top: 58px;
     left: 4px;
 }
 
 .edit .y {
     background-position: 48px 0;
     left: 55px;
-    top: 5px;
+    top: 7px;
 }
 
 .edit .stick {
