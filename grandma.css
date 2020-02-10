@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(grandma/grandmaa.gif), url(grandma/grandmabase.svg);
+  background:   url(grandma/grandmaa.gif), url(grandma/grandmabasee.svg);
   background-postion: absolute;
     width: 806px;
     height: 599px;
@@ -124,7 +124,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(grandma/grandmaabxy.svg);
+    background: url(grandma/grandabxy.svg);
 }
 .edit .button.pressed{
     background-position-y: 55px;
