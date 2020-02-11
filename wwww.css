@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(gyro/gyro.gif), url(gyro/gyrobasee.svg);
+  background: url(gyro/gyrobasee.svg);
   background-postion: absolute;
     width: 806px;
     height: 599px;
