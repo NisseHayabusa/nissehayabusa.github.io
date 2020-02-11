@@ -11,7 +11,7 @@
   background: url();
 }
 
-.edit .trigger.left{
+.edit .triggers{
     width: 588px;
     height: 90px;
     position: absolute;
@@ -25,17 +25,6 @@
     opacity: 0;
 }
 
-.edit .trigger.left{
-    float: left;
-    background-position-x: 99px;
-}
-
-.edit .trigger.right{
-    width: 588px;
-    height: 90px;
-    position: absolute;
-    left: 109px;
-}
 .edit .trigger.right{
     width: 99px;
     height: 100%;
@@ -45,6 +34,10 @@
 
 .edit .trigger.right{
     float: right;
+    background-position-x: 99px;
+}
+.edit .trigger.left{
+    float: left;
     background-position-x: 99px;
 }
 
