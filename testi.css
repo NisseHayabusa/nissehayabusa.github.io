@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(blackhaya/hexi.gif), url(blackhaya/hexbasee.svg);
+  background:   url(blackhaya/hexi.gif), url(blackhaya/hexbaseee.svg);
   background-postion: absolute;
     width: 750px;
     height: 630px;
@@ -61,7 +61,7 @@
 
 .edit .button {
     position: absolute;
-    background: url(green/glowabxy.svg);
+    background: url(musty/abxymusty.svg);
     width: 48px;
     height: 48px;
 }
@@ -98,14 +98,14 @@
 
 .edit .stick {
     position: absolute;
-    background: url(green/glowsticks.svg);
+    background: url(musty/mustysticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
 .edit .stick{
     position: absolute;
-    background: url(green/glowsticks.svg);
+    background: url(musty/mustysticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
