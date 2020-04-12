@@ -1,0 +1,126 @@
+.controller.edit {
+  background:   url(snipe/snipedown.gif), url(snipe/snipebase.svg);
+  background-postion: absolute;
+    width: 750px;
+    height: 630px;
+  background-position-x: 0px;
+  background-repeat:no-repeat;
+}
+
+.edit.disconnected {
+  background: url(green/xbox-dc.svg);
+}
+
+.edit .quadrant {
+  display: none;
+}
+
+.edit .p0 {
+    display: none;
+}
+
+.edit .p1 {
+    display: none;
+}
+
+.edit .p2 {
+    display: none;
+}
+
+.edit .p3 {
+    display: none;
+}
+
+.edit .back, .edit .start {
+    background: url(snipe/snipestart.svg);
+    width: 33px;
+    height: 33px;
+    opacity: 0;
+}
+
+.edit .back.pressed, .edit .start.pressed {
+    opacity: 1;
+}
+
+.edit .back {
+    float: left;
+}
+
+.edit .start {
+    background-position: 33px 0px;
+    float: right;
+}
+
+.edit .abxy {
+    position: absolute;
+    width: 153px;
+    height: 156px;
+    top: 192px;
+    left: 488px;
+}
+
+.edit .button {
+    position: absolute;
+    background: url(snipe/snipeabxy.svg);
+    width: 48px;
+    height: 48px;
+}
+
+.edit .button.pressed {
+    background-position-y: -48px;
+    margin-top: 5px;
+    opacity: 1;
+}
+
+.edit .a {
+    background-position: 0 0;
+    top: 108px;
+    left: 55px;
+}
+
+.edit .b {
+    background-position: -49px 0;
+    top: 58px;
+    right: 0px;
+}
+
+.edit .x {
+    background-position: -98px 0;
+    top: 58px;
+    left: 4px;
+}
+
+.edit .y {
+    background-position: 48px 0;
+    left: 55px;
+    top: 7px;
+}
+
+.edit .stick {
+    position: absolute;
+    background: url(snipe/snipesticks.svg);
+    background-position: -85px 0;
+    height: 83px;
+    width: 83px;
+}
+.edit .stick{
+    position: absolute;
+    background: url(snipe/snipesticks.svg);
+    background-position: -85px 0;
+    height: 83px;
+    width: 83px;
+}
+
+.edit .stick.pressed{
+    background-position: 0 0;
+}
+
+.edit .stick.left{
+    top: 0;
+    left: 0;
+}
+
+.edit .stick.right{
+    top: 113px;
+    left: 288px;
+}
