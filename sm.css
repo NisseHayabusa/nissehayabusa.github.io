@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(sm/sm.gif), url(sm/smbasee.svg);
+  background:   url(sm/squishy2.gif), url(sm/smbase2.svg);
   background-postion: absolute;
     width: 806px;
     height: 599px;
@@ -124,7 +124,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(sm/smabxy.svg);
+    background: url(jstn/jstnabxy.svg);
 }
 .edit .button.pressed{
     background-position-y: 55px;
@@ -163,7 +163,7 @@
 
 .edit .stick{
     position: absolute;
-    background: url(sm/smsticks.svg);
+    background: url(jstn/jstnstickss.svg);
     height: 94px;
     width: 94px;
 }
@@ -195,7 +195,7 @@
 }
 
 .edit .face{
-    background: url(sm/smarrows.svg);
+    background: url(jstn/jstnarrow.svg);
     position: absolute;
 }
 
