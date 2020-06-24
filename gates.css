@@ -1,6 +1,6 @@
   
 .controller.edit {
-  background:   url(gates/gatesg.gif), url(gates/gatesbase.svg);
+  background:   url(gates/gates1.gif), url(gates/gatesbase1.svg);
   background-postion: absolute;
     width: 806px;
     height: 599px;
@@ -125,7 +125,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(skog/abxy-japan.svg);
+    background: url(gates/gatesabxy1.svg);
 }
 .edit .button.pressed{
     background-position-y: 55px;
@@ -196,7 +196,7 @@
 }
 
 .edit .face{
-    background: url(skog/dpad-moonlight.svg);
+    background: url(jlor/jlorarrow.svg);
     position: absolute;
 }
 
