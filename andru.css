@@ -1,5 +1,5 @@
 .controller.edit{
-  background: url(andru/andrubasee.svg);
+  background: url(andru/andrubase2.svg);
 }
 
 .edit.disconnected {
@@ -157,7 +157,7 @@
 
 .edit .stick{
     position: absolute;
-    background: url(andru/andrusticks.svg);
+    background: url(andru/andrusticks2.svg);
     height: 94px;
     width: 94px;
 }
