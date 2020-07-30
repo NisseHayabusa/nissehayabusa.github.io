@@ -1,5 +1,5 @@
 .controller.edit {
-  background:  url(jeez/base.png);
+  background:  url(jeez/base.png.png);
 }
 
 .edit.disconnected {
@@ -15,7 +15,7 @@
 .edit .trigger{
     width: 99px;
     height: 100%;
-    background: url(jeez/trigger.png);
+    background: url(jeez/trigger.png.png);
     opacity: 0;
 }
 
@@ -30,7 +30,7 @@
 .edit .bumper{
     width: 99px;
     height: 23px;
-    background: url(jeez/bumper.png) no-repeat;
+    background: url(jeez/bumper.png.png) no-repeat;
     opacity: 0;
 
 }
@@ -119,7 +119,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(jeez/abxy.png);
+    background: url(jeez/abxy.png.png);
 }
 .edit .button.pressed{
     background-position-y: 55px;
@@ -158,7 +158,7 @@
 
 .edit .stick{
     position: absolute;
-    background: url(jeez/sticks.png);
+    background: url(jeez/sticks.png.png);
     height: 94px;
     width: 94px;
 }
@@ -190,7 +190,7 @@
 }
 
 .edit .face{
-    background: url(jeez/arrows.png);
+    background: url(jeez/arrows.png.png);
     position: absolute;
 }
 
