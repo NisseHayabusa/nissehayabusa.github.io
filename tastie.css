@@ -124,7 +124,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(jstn/jstnabxy.svg);
+    background: url(jlor/jlorabxy.svg);
 }
 .edit .button.pressed{
     background-position-y: 55px;
@@ -195,7 +195,7 @@
 }
 
 .edit .face{
-    background: url(jstn/jstnarrow.svg);
+    background: url(tastie/tastiearrows.svg);
     position: absolute;
 }
 
