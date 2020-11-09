@@ -124,7 +124,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(led/ledabxy3.svg); no-repeat
+    background: url(led/ledabxy1.svg); no-repeat
 }
 .edit .button.pressed{
     background-position-y: 55px;
