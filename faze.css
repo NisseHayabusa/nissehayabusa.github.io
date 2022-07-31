@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(faze/faze v3.gif), url(faze/faze base.svg);
+  background:   url(faze/fazev3.gif), url(faze/fazebase.svg);
   background-postion: absolute;
     width: 750px;
     height: 630px;
@@ -8,7 +8,7 @@
 }
 
 .edit.disconnected {
-  background: url(faze/disconnect faze.png);
+  background: url(faze/disconnectfaze.png);
 }
 .xbox .triggers {
     width: 446px;
